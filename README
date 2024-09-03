@@ -1,0 +1,8 @@
+learn static files byy using tamplates
+========================================
+1.create static folder in project 
+2.install html5 tamplates and add images and assests to static folder
+3. add the html code that name index.html in tamplates folder
+4. we correct all the paths in index.html such as images and link for css or js
+4.create the server python and by using flask we render html files 
+5. you can add any thing you want to index.html such ass more information about you
